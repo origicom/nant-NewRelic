@@ -1,0 +1,4 @@
+NewRelicTask/bin/
+NewRelicTask/obj/
+*.suo
+*.user
